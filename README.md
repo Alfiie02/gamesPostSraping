@@ -1,1 +1,1 @@
-# gamePostScraping
+# gamePostScraping.jsp
